@@ -6,10 +6,10 @@
 
 
 
-<h1 align="center">Hi there! I'm Ujjwal Sharma 👋</h1>
+<h3 align="center">Nice to me you! 😄</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rebecadev10&color=blue" alt="Profile Views" />
 </p>
 
 <blockquote style="font-size: 24px;">
@@ -60,41 +60,23 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
   </a>
 </p>
 
-### Other Profiles
 
-<p align="center">
-  <a href="https://www.codechef.com/users/ujjwalsharma01">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/ujjwalsharma01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sharma_ujjwal">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/sharma_ujjwal">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/sharma_ujjwal/profile">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
-  </a>
-</p>
 
 Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rebecadev10&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharma01&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebecadev10&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsharma01&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rebecadev10&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
   </p>
 </details>
 
