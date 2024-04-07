@@ -1,10 +1,8 @@
 ### Hi there 
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/rebecadev10/rebecadev10/main/REBECA%20RODR%C3%8DGUEZ.png)
 
-<img alt="Night Coding" src="REBECA%20RODR%C3%8DGUEZ.png" width='40' align="left"/><h2>Hola soy Rebeca 👋</h2>
-
-
-
+<img alt="Night Coding" src="REBECA%20RODR%C3%8DGUEZ.png" width='40' align="left"/>
+<h2>Hi there! I'm Rebeca 👋</h2>
 
 <h3 align="center">Nice to me you! 😄</h3>
 
